@@ -8,7 +8,7 @@ import "../../style/main.scss";
 export class NumbericInput extends Component {
     render() {
         return (
-            <input {...this.props} />
+            <input className="Num" {...this.props} />
         )
     }
 }
