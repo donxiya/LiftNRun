@@ -17,7 +17,7 @@ export class NameInput extends Component {
     render() {
         return (
 
-            <input className="Input" {...this.props} />
+            <input className="Num" {...this.props} />
 
         )
     }
